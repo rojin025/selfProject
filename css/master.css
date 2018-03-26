@@ -54,3 +54,10 @@ body {
   background: rgba(255,255,255,0.5);
   color: #fff;
 }
+
+@media all and (min-width: 1030px) {
+  .header {
+    width: 1030px;
+    min-width: 768px;
+  }
+}
